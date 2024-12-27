@@ -1,0 +1,24 @@
+Browse   https://jquery.com/
+         https://www.w3schools.com/jquery/default.asp 
+
+
+
+java script r jquery er moddhe JQ niche likha thakbe...
+code commenting ta eivabe likha jete pare
+
+=====================JQ===============
+
+tobe JQ ta advance
+version 3.7.1
+jquery javascript er library
+
+***Dom traversing means document object model
+
+JQ library file
+
+******version 3.7.1    for working
+        1.12.4   plugin problem
+
+
+      must connect querry compressed file, not use 
+      (map, slim build or uncompressed file)
